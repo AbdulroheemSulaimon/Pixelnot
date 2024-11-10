@@ -4,7 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=pink)](https://t.me/notpixel/app?startapp=f6151026671)
 
-# 🎨AUTO FARM FOR NOTPIXEL BY MINHAJ  🎨
+# 🎨AUTO FARM FOR NOTPIXEL BY ROHMEX  🎨
 
 > [!WARNING]
 > As a payment for this script I take a part of your referrals, to remove this behavior or reduce the percentage of referrals you can customize this variable PERCENT_OF_REFERRALS_FOR_CREATORS_OF_THE_SOFT.
